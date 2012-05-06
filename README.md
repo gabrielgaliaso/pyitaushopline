@@ -1,4 +1,4 @@
-Itau-Shopline
+Python Itaú Shopline
 =============
 
-Gera os dados para pagamento via Itaú Shopline e consulta de transação em python.
+Classe para geração dos dados para pagamento via Itaú Shopline e consulta de transação em python.
