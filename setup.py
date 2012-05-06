@@ -17,7 +17,7 @@ setup(
         "Programming Language :: Python",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
-    license = "BSD",
+    license = itaushopline.__license__,
     keywords = ["itau", "shopline"],
     url = "https://github.com/gabrielgaliaso/pyitaushopline",
     packages=['itaushopline',],
